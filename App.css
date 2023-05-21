@@ -1,0 +1,39 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.card-body{
+  background-color: blue;
+  color: white;
+  padding: 30px;
+  border-radius: 10%;
+}
+h5{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  border-bottom: 1px solid white;
+  padding-bottom: 20px;
+}
+small{
+  font-size: small;
+}
+span{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+Button{
+  margin-left: 65px;
+}
+
+.button-of-card{
+  color:black;
+}
